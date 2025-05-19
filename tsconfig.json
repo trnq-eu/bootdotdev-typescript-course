@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "lib": ["dom", "dom.iterable", "esnext"],
+        "strict": true,
+        "skipLibCheck": true,
+        "verbatimModuleSyntax": true,
+        "esModuleInterop": true,
+        "moduleDetection": "force",
+        "target": "esnext",
+        "noUncheckedIndexedAccess": true
+    }
+}
